@@ -1,0 +1,15 @@
+{
+  "teachers": [],
+  "admins": [
+    {
+      "adminName": "shubham",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "adminName": "satyam",
+      "password": "1237845986532",
+      "id": 2
+    }
+  ]
+}
