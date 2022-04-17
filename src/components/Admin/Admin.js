@@ -15,7 +15,7 @@ export const Admin = () => {
 
     const handleSubmit = (e) => {
         axios.post("http://localhost:8080/admins", data)
-        navigate("/");
+        navigate("/teachers");
     }
 
     const handleChange = (e) => {
@@ -42,7 +42,7 @@ export const Admin = () => {
             <br />
 
             <Button
-                // disabled={!ID || !password}
+                // disabled={!adminName || !password}
                 onClick={handleSubmit} sx={{ mt: "1em" }} variant="contained">Log in</Button>
         </>
     )

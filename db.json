@@ -1,5 +1,56 @@
 {
-  "teachers": [],
+  "teachers": [
+    {
+      "teacherName": "Ms.Lily",
+      "gender": "Female",
+      "age": "26",
+      "grade": "A",
+      "section": "Primary",
+      "subject": "Maths",
+      "class": "4th",
+      "id": 1
+    },
+    {
+      "teacherName": "Mr.John",
+      "gender": "Male",
+      "age": "33",
+      "grade": "A",
+      "section": "Primary",
+      "subject": "History",
+      "class": "4th",
+      "id": 2
+    },
+    {
+      "teacherName": "Mr.Micheal",
+      "gender": "Male",
+      "age": "37",
+      "grade": "A",
+      "section": "Secondary",
+      "subject": "Maths",
+      "class": "9th",
+      "id": 3
+    },
+    {
+      "teacherName": "Ms.Alexa",
+      "gender": "Female",
+      "age": "23",
+      "grade": "B",
+      "section": "Secondary",
+      "subject": "English",
+      "class": "9th",
+      "id": 4
+    },
+    {
+      "teacherName": "Mr.Sobel",
+      "gender": "Male",
+      "age": "55",
+      "grade": "D",
+      "section": "Secondary",
+      "subject": "Economics",
+      "class": "10th",
+      "id": 5
+    }
+  ],
   "admins": [
     {
       "adminName": "shubham",
@@ -10,6 +61,11 @@
       "adminName": "satyam",
       "password": "1237845986532",
       "id": 2
+    },
+    {
+      "adminName": "",
+      "password": "",
+      "id": 3
     }
   ]
 }

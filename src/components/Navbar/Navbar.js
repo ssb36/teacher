@@ -12,6 +12,12 @@ export const Navbar = () => {
 
         <Link style={{ textDecoration: "none" }} to="/admin"><Button variant='contained'>Admin</Button></Link>
       </div>
+
+      <div style={{ marginLeft: "1em" }}>
+
+        <Link style={{ textDecoration: "none" }} to="/teachers"><Button variant='contained'>Show Data</Button></Link>
+      </div>
+
     </div>
   )
 }
