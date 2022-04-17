@@ -66,6 +66,11 @@
       "adminName": "",
       "password": "",
       "id": 3
+    },
+    {
+      "adminName": "shubham",
+      "password": "12345678",
+      "id": 4
     }
   ]
 }
